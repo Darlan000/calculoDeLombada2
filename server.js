@@ -1,7 +1,7 @@
 // importa o express
 import express from "express";
 // importa o meus dados json
-import dados from "../calculoDeLombada3/src/papeisgramaturas.json" with { type: "json" };
+import dados from "./src/papeisgramaturas.json" with { type: "json" };
 // inicia o express
 const app = express();
 // porta do servidor
