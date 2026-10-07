@@ -1,0 +1,177 @@
+[
+    {
+        "papel": "OFF SET",
+        "gramaturas": [
+            { "gramatura": "56g", "fator": 28 },
+            { "gramatura": "60g", "fator": 25 },
+            { "gramatura": "63g", "fator": 24 },
+            { "gramatura": "70g", "fator": 22 },
+            { "gramatura": "75g", "fator": 20 },
+            { "gramatura": "80g", "fator": 21 },
+            { "gramatura": "85g", "fator": 18 },
+            { "gramatura": "90g", "fator": 17 },
+            { "gramatura": "120g", "fator": 13 }
+        ]
+    },
+    {
+        "papel": "OFF SET CHINES",
+        "gramaturas": [
+            { "gramatura": "90g", "fator": 20 },
+            { "gramatura": "75g", "fator": 22 }
+        ]
+    },
+    {
+        "papel": "AVENA",
+        "gramaturas": [
+            { "gramatura": "70g", "fator": 21 },
+            { "gramatura": "80g", "fator": 18.5 },
+            { "gramatura": "90g", "fator": 16.5 }
+        ]
+    },
+    {
+        "papel": "AVENA MAIS",
+        "gramaturas": [{ "gramatura": "70g", "fator": 16 }]
+    },
+    {
+        "papel": "HOME FINE",
+        "gramaturas": [{ "gramatura": "60g", "fator": 21.5 }]
+    },
+    {
+        "papel": "WOOD FREE",
+        "gramaturas": [
+            { "gramatura": "68g", "fator": 23.5 },
+            { "gramatura": "78g", "fator": 19 },
+            { "gramatura": "PAPER CREAMY 78g", "fator": 19 }
+        ]
+    },
+    {
+        "papel": "BOOK CREAM",
+        "gramaturas": [
+            { "gramatura": "80g", "fator": 13.5 },
+            { "gramatura": "90g", "fator": 11.5 }
+        ]
+    },
+    {
+        "papel": "BULK PAPER GOLDEM",
+        "gramaturas": [{ "gramatura": "80g", "fator": 13 }]
+    },
+    {
+        "papel": "HOME BOOK",
+        "gramaturas": [
+            { "gramatura": "52g", "fator": 18 },
+            { "gramatura": "55g", "fator": 17.5 },
+            { "gramatura": "65g", "fator": 13 },
+            { "gramatura": "80g", "fator": 11 },
+            { "gramatura": "90g", "fator": 10 }
+        ]
+    },
+    {
+        "papel": "SNOWBRIGHT",
+        "gramaturas": [
+            { "gramatura": "55g", "fator": 17 },
+            { "gramatura": "60g", "fator": 18.5 },
+            { "gramatura": "65g", "fator": 13 },
+            { "gramatura": "70g", "fator": 13 },
+            { "gramatura": "80g", "fator": 12 }
+        ]
+    },
+    {
+        "papel": "LUX CREAM",
+        "gramaturas": [
+            { "gramatura": "60g", "fator": 18.5 },
+            { "gramatura": "70g", "fator": 16 },
+            { "gramatura": "80g", "fator": 14 },
+            { "gramatura": "90g", "fator": 12.5 }
+        ]
+    },
+    {
+        "papel": "POLEN NATURAL",
+        "gramaturas": [
+            { "gramatura": "70g", "fator": 22 },
+            { "gramatura": "80g", "fator": 18 },
+            { "gramatura": "90g", "fator": 14 }
+        ]
+    },
+    {
+        "papel": "HYLTE CREAM",
+        "gramaturas": [
+            { "gramatura": "60g", "fator": 19 },
+            { "gramatura": "70g", "fator": 16 }
+        ]
+    },
+    {
+        "papel": "UMP OPALITE",
+        "gramaturas": [{ "gramatura": "36g", "fator": 46 }]
+    },
+    {
+        "papel": "UMP BOOK CREMY",
+        "gramaturas": [
+            { "gramatura": "52g", "fator": 20 },
+            { "gramatura": "60g", "fator": 17 },
+            { "gramatura": "70g", "fator": 15 },
+            { "gramatura": "80g", "fator": 13.5 }
+        ]
+    },
+    {
+        "papel": "POLEN BOLD",
+        "gramaturas": [
+            { "gramatura": "70g", "fator": 16 },
+            { "gramatura": "90g", "fator": 12 }
+        ]
+    },
+    {
+        "papel": "POLEN SOFT",
+        "gramaturas": [
+            { "gramatura": "70g", "fator": 20.5 },
+            { "gramatura": "80g", "fator": 18 }
+        ]
+    },
+    {
+        "papel": "NORBRITE",
+        "gramaturas": [{ "gramatura": "66g", "fator": 14.5 }]
+    },
+    {
+        "papel": "IVORY SLIM BOOK",
+        "gramaturas": [
+            { "gramatura": "58g", "fator": 25 },
+            { "gramatura": "65g 2.0", "fator": 22 },
+            { "gramatura": "65g 1.3", "fator": 24 }
+        ]
+    },
+    {
+        "papel": "IVORY SPEED",
+        "gramaturas": [{ "gramatura": "58g", "fator": 26 }]
+    },
+    {
+        "papel": "IVORY BOOK BULK",
+        "gramaturas": [
+            { "gramatura": "58g", "fator": 18 },
+            { "gramatura": "65g 1.7", "fator": 15 },
+            { "gramatura": "65g 1.8", "fator": 18 },
+            { "gramatura": "90g", "fator": 13.5 }
+        ]
+    },
+    {
+        "papel": "IVORY BULK",
+        "gramaturas": [{ "gramatura": "58g 1.8", "fator": 21 }]
+    },
+    {
+        "papel": "IVORY COLD",
+        "gramaturas": [
+            { "gramatura": "58g", "fator": 21.6 },
+            { "gramatura": "65g", "fator": 19 }
+        ]
+    },
+    {
+        "papel": "BOOK PAPER BULK 2.0",
+        "gramaturas": [{ "gramatura": "65g", "fator": 16 }]
+    },
+    {
+        "papel": "PAPER SUM PAPER",
+        "gramaturas": [{ "gramatura": "78g", "fator": 21 }]
+    },
+    {
+        "papel": "NOTE BOOK PAPER",
+        "gramaturas": [{ "gramatura": "75g", "fator": 21.7 }]
+    }
+]
