@@ -16,7 +16,7 @@ const closeButton = document.querySelector(".close-button");
 // --- 1. Carregar os nomes dos papéis da API (GET /dados) ---
 async function carregarDadosPapeis() {
     try {
-        const response = await fetch("http://localhost:3000/dados");
+        const response = await fetch("/dados");
         if (!response.ok) throw new Error("Falha ao carregar papéis");
 
         const nomesDosPapeis = await response.json();
@@ -44,7 +44,7 @@ async function carregarGramaturas(papelSelecionado) {
     if (!papelSelecionado) return;
 
     try {
-        const response = await fetch(`http://localhost:3000/dados/${papelSelecionado}`);
+        const response = await fetch(`/dados/${papelSelecionado}`);
         if (!response.ok) throw new Error("Falha ao carregar gramaturas");
 
         const gramaturas = await response.json();
@@ -94,7 +94,7 @@ async function calcularLombada(event) {
 
     try {
         // Envia o pacote de dados para o teu back-end
-        const response = await fetch("http://localhost:3000/calcular", {
+        const response = await fetch("/calcular", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({

@@ -5,7 +5,7 @@ import dados from "../calculoDeLombada3/src/papeisgramaturas.json" with { type: 
 // inicia o express
 const app = express();
 // porta do servidor
-const port = 3000;
+const port = process.env.PORT || 3000;
 
 // middlewares interceptam as requisições e respostas do servidor
 app.use(express.json());
